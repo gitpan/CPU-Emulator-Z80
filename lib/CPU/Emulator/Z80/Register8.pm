@@ -143,12 +143,15 @@ sub sub {
 
 None known.
 
-=head1 AUTHOR, LICENCE and COPYRIGHT
+=head1 AUTHOR, COPYRIGHT and LICENCE
 
 Copyright 2008 David Cantrell E<lt>F<david@cantrell.org.uk>E<gt>
 
-This module is free-as-in-speech software, and may be used,
-distributed, and modified under the same terms as Perl itself.
+This software is free-as-in-speech software, and may be used,
+distributed, and modified under the terms of either the GNU
+General Public Licence version 2 or the Artistic Licence.  It's
+up to you which one you use.  The full text of the licences can
+be found in the files GPL2.txt and ARTISTIC.txt, respectively.
 
 =head1 CONSPIRACY
 
